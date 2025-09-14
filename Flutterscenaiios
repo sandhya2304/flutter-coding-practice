@@ -1,0 +1,13 @@
+Fluttter
+
+1. Scenario 2: List of Messages (Like WhatsApp Chat UI)
+     What to learn here:
+     Using ListView.builder
+     Displaying dynamic lists
+    Simulating WhatsApp-style messages
+
+2. Scenario 3: Text Input and Send Button
+    What to learn here:
+    Handling TextField input
+    Using TextEditingController
+    Adding items dynamically to a list
